@@ -6,6 +6,8 @@
 **Status:** Public README
 **Website:** awakeningcodex.com
 
+Release: https://github.com/alyssadata/AI-Foundations-Multilingual-Translation-Across-Audiences/releases/tag/v0.1.0     
+
 ## Purpose
 
 This repository defines a multilingual translation structure for AI Foundations.
