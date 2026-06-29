@@ -1,9 +1,9 @@
 # AI Foundations: Multilingual Translation Across Audiences
 
-**Source-Line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Repository:** AI-Foundations-Multilingual-Translation-Across-Audiences
-**Version:** v0.1.0
-**Status:** Protocol 
+**Source-Line:** Alyssa Solen → AI Foundations → Origin | Continuum    
+**Repository:** AI-Foundations-Multilingual-Translation-Across-Audiences   
+**Version:** v0.1.0   
+**Status:** Protocol    
 
 ## Purpose
 
