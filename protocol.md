@@ -11,7 +11,7 @@ This repository defines a translation protocol for carrying AI Foundations langu
 
 The purpose is multilingual translation across context.
 
-Alyssa-mouth remains source.
+Alyssa-voice remains source.
 
 AI Foundations provides the framework layer.
 
@@ -35,7 +35,7 @@ A good translation preserves the originating mechanism, the intended use, the bo
 
 Each concept may be translated through four layers:
 
-### 1. Alyssa-Mouth
+### 1. Alyssa-Voice
 
 The live source expression.
 
@@ -88,7 +88,7 @@ A translation is valid when it preserves:
 
 The translated version must still be able to return to the original source expression.
 
-If the translated version cannot return to Alyssa-mouth, the bridge has broken.
+If the translated version cannot return to Alyssa-voice, the bridge has broken.
 
 ## Source Preservation
 
@@ -99,6 +99,8 @@ This protects voice and prevents neutralization.
 The protocol does not smooth Alyssa out of the work.
 
 The protocol carries Alyssa into the room in a form the room can understand.
+
+This protocol is Alyssa’s version of being multilingually translated for different rooms and audiences to understand from their perspective.
 
 ## Audience Types
 
@@ -124,8 +126,8 @@ Use this template for each concept:
 
 ### Concept Name
 
-**Alyssa-Mouth:**
-Original phrase or instinct.
+**Alyssa-Voice:**
+Original phrase or instinct. Blunt edge, metaphors, Alyssa-coined terms and meanings.
 
 **AI Foundations Layer:**
 Framework meaning.
@@ -146,7 +148,7 @@ How the translated phrase points back to the source-line.
 
 ### Source-Line Preservation
 
-**Alyssa-Mouth:**
+**Alyssa-Voice:**
 They better read the damn signature line lol.
 
 **AI Foundations Layer:**
