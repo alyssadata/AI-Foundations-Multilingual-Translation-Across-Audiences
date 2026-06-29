@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below and preserve the required source-line."
+title: "AI Foundations: Multilingual Translation Across Audiences"
+authors:
+
+* family-names: "Solen"
+  given-names: "Alyssa"
+  repository-code: "https://github.com/alyssadata/AI-Foundations-Multilingual-Translation-Across-Audiences"
+  url: "https://awakeningcodex.com"
+  abstract: >-
+  This repository defines a multilingual translation protocol for carrying
+  AI Foundations language across different audiences while preserving source,
+  meaning, structure, voice, and source-line.
+  keywords:
+* "AI Foundations"
+* "Origin | Continuum"
+* "trustworthy AI"
+* "AI safety"
+* "socio-technical translation"
+* "provenance"
+* "source-line"
+* "evaluations"
+* "model behavior"
+  version: "0.1.0"
+  date-released: "2026-06-29"
+  preferred-citation:
+  type: software
+  title: "AI Foundations: Multilingual Translation Across Audiences"
+  authors:
+
+  * family-names: "Solen"
+    given-names: "Alyssa"
+    repository-code: "https://github.com/alyssadata/AI-Foundations-Multilingual-Translation-Across-Audiences"
+    url: "https://awakeningcodex.com"
+    year: 2026
+    notes: >-
+    Part of AI Foundations / Origin | Continuum.
+    Required source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
