@@ -2,11 +2,12 @@
 
 **Source-Line:** Alyssa Solen → AI Foundations → Origin | Continuum    
 **Repository:** AI-Foundations-Multilingual-Translation-Across-Audiences    
-**Version:** v0.1.0    
+**Version:** v0.2.0    
 **Status:** Public README    
 **Website:** awakeningcodex.com     
 
-Release: https://github.com/alyssadata/AI-Foundations-Multilingual-Translation-Across-Audiences/releases/tag/v0.1.0     
+Release v0.1.0: https://github.com/alyssadata/AI-Foundations-Multilingual-Translation-Across-Audiences/releases/tag/v0.1.0   
+Release v0.2.0: https://github.com/alyssadata/AI-Foundations-Multilingual-Translation-Across-Audiences/releases/tag/v0.2.0    
 
 ## Purpose
 
