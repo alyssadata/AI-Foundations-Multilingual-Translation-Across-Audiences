@@ -21,7 +21,7 @@ authors:
 * "source-line"
 * "evaluations"
 * "model behavior"
-  version: "0.1.0"
+  version: "0.2.0"
   date-released: "2026-06-29"
   preferred-citation:
   type: software
