@@ -109,6 +109,7 @@ Example:
 * `examples.md` — example translations across audience layers
 * `LICENSE.md` — source-line license
 * `CITATION.cff` — citation metadata
+* `technical-translation-map.md` technical translation map
 
 ## Use Cases
 
